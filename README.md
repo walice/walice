@@ -11,7 +11,7 @@ Here you will find repos for my academic papers, scientific tools, and some tuto
 [![git-tutorial](https://github-readme-stats.vercel.app/api/pin/?username=walice&repo=git-tutorial&theme=yeblu)](https://github.com/walice/git-tutorial) [![wedding-template](https://github-readme-stats.vercel.app/api/pin/?username=walice&repo=wedding-template&theme=yeblu)](https://github.com/walice/wedding-template)
 
 ### Here are some Docker images for scientific computing
-[![jupyter-book-docker](https://github-readme-stats.vercel.app/api/pin/?username=walice&repo=jupyter-book-docker&theme=vue-dark)](https://github.com/walice/jupyter-book-docker) [![jupyter-rstudio-tensor-docker](https://github-readme-stats.vercel.app/api/pin/?username=walice&repo=jupyter-rstudio-tensor-docker&theme=vue-dark)](https://github.com/walice/jupyter-rstudio-tensor-docker)
+[![jupyter-book-docker](https://github-readme-stats.vercel.app/api/pin/?username=walice&repo=jupyter-book-docker&theme=vue-dark)](https://github.com/walice/jupyter-book-docker) [![jupyter-rstudio-binder](https://github-readme-stats.vercel.app/api/pin/?username=walice&repo=jupyter-rstudio-binder&theme=vue-dark)](https://github.com/walice/jupyter-rstudio-binder)
 
 ### Scientific software
 [![Genetic-Algorithm](https://github-readme-stats.vercel.app/api/pin/?username=walice&repo=Genetic-Algorithm&theme=shades-of-purple)](https://github.com/walice/Genetic-Algorithm) [![beziersplines](https://github-readme-stats.vercel.app/api/pin/?username=walice&repo=beziersplines&theme=shades-of-purple)](https://github.com/walice/beziersplines)
