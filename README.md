@@ -8,7 +8,7 @@ I always like to learn new things and level up my skills.
 Here you will find repos for my academic papers, scientific tools, and some tutorials and templates.
 
 ### Check out these tutorials & templates
-[![git-tutorial](https://github-readme-stats-whoad-phi.vercel.app/api/pin/?username=walice&repo=git-tutorial&theme=yeblu)](https://github.com/walice/git-tutorial) [![wedding-template](https://github-readme-stats.vercel.app/api/pin/?username=walice&repo=wedding-template&theme=yeblu)](https://github.com/walice/wedding-template)
+[![git-tutorial](https://github-readme-stats-woad-phi.vercel.app/api/pin/?username=walice&repo=git-tutorial&theme=yeblu)](https://github.com/walice/git-tutorial) [![wedding-template](https://github-readme-stats.vercel.app/api/pin/?username=walice&repo=wedding-template&theme=yeblu)](https://github.com/walice/wedding-template)
 
 ### Here are some Docker images for scientific computing
 [![jupyter-book-docker](https://github-readme-stats.vercel.app/api/pin/?username=walice&repo=jupyter-book-docker&theme=vue-dark)](https://github.com/walice/jupyter-book-docker) [![jupyter-rstudio-binder](https://github-readme-stats.vercel.app/api/pin/?username=walice&repo=jupyter-rstudio-binder&theme=vue-dark)](https://github.com/walice/jupyter-rstudio-binder)
