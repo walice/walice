@@ -1,5 +1,5 @@
 # Hello 👋
-My name is Alice and I am a data scientist and economist.
+My name is Alice and I am a machine learning engineer and computational social scientist.
 
 I am a fan of pretty data visualizations and scientific reproducibility.
 
