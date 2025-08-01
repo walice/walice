@@ -13,7 +13,7 @@ Here you will find repos for my academic papers, scientific tools, and some tuto
 ### Here are some Docker images for scientific computing
 [![jupyter-book-docker](https://github-readme-stats-woad-phi.vercel.app/api/pin/?username=walice&repo=jupyter-book-docker&theme=vue-dark)](https://github.com/walice/jupyter-book-docker) [![jupyter-rstudio-binder](https://github-readme-stats-woad-phi.vercel.app/api/pin/?username=walice&repo=jupyter-rstudio-binder&theme=vue-dark)](https://github.com/walice/jupyter-rstudio-binder)
 
-### Scientific software
+### Algorithms
 [![Genetic-Algorithm](https://github-readme-stats-woad-phi.vercel.app/api/pin/?username=walice&repo=Genetic-Algorithm&theme=shades-of-purple)](https://github.com/walice/Genetic-Algorithm) [![beziersplines](https://github-readme-stats-woad-phi.vercel.app/api/pin/?username=walice&repo=beziersplines&theme=shades-of-purple)](https://github.com/walice/beziersplines)
 
 ### My academic projects
