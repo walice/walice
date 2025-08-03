@@ -20,30 +20,7 @@ Here you will find repos for my academic papers, scientific tools, and some tuto
 [![synth](https://github-readme-stats-woad-phi.vercel.app/api/pin/?username=walice&repo=synth&theme=cobalt)](https://github.com/walice/synth) [![Trade-IFF](https://github-readme-stats-woad-phi.vercel.app/api/pin/?username=walice&repo=Trade-IFF&theme=cobalt)](https://github.com/walice/Trade-IFF)[![jupyter-book-IFF](https://github-readme-stats-woad-phi.vercel.app/api/pin/?username=walice&repo=jupyter-book-IFF&theme=cobalt)](https://github.com/walice/jupyter-book-IFF) [![Risk-Analysis-IFF](https://github-readme-stats-woad-phi.vercel.app/api/pin/?username=walice&repo=Risk-Analysis-IFF&theme=cobalt)](https://github.com/walice/Risk-Analysis-IFF)[![skyshares](https://github-readme-stats-woad-phi.vercel.app/api/pin/?username=walice&repo=skyshares&theme=cobalt)](https://github.com/walice/skyshares) [![Africa-illicit-finance](https://github-readme-stats-woad-phi.vercel.app/api/pin/?username=walice&repo=Africa-illicit-finance&theme=cobalt)](https://github.com/walice/Africa-illicit-finance)
 
 ## Technologies I'm working with
-<img src="https://img.shields.io/badge/R-grey?logo=rstudioide" alt="R logo" height="25"/>
-<img src="https://img.shields.io/badge/Python-grey?logo=python" alt="Python logo" height="25"/>
-<img src="https://img.shields.io/badge/Jupyter-grey?logo=jupyter" alt="Jupyter logo" height="25"/>
-<img src="https://img.shields.io/badge/scikit.learn-grey?logo=scikitlearn" alt="scikit-learn logo" height="25"/>
-<img src="https://img.shields.io/badge/PyTorch-grey?logo=pytorch" alt="PyTorch logo" height="25"/>
-<img src="https://img.shields.io/badge/Linux-grey?logo=linux" alt="Linux logo" height="25"/>
-<img src="https://img.shields.io/badge/Ubuntu-grey?logo=ubuntu" alt="Ubuntu logo" height="25"/>
-<img src="https://img.shields.io/badge/Git-grey?logo=git" alt="Git logo" height="25"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-grey?logo=githubactions" alt="GitHub Actions logo" height="25"/>
-<img src="https://img.shields.io/badge/Docker-grey?logo=docker" alt="Docker logo" height="25"/>
-<img src="https://img.shields.io/badge/Google%20Cloud-grey?logo=googlecloud" alt="Google Cloud logo" height="25"/>
-<img src="https://img.shields.io/badge/Digital%20Ocean-grey?logo=digitalocean" alt="Docker logo" height="25"/>
-<img src="https://img.shields.io/badge/JavaScript-grey?logo=javascript" alt="JavaScript logo" height="25"/>
-<img src="https://img.shields.io/badge/Node.js-grey?logo=nodedotjs" alt="Node.js logo" height="25"/>
-<img src="https://img.shields.io/badge/MongoDB-grey?logo=mongodb" alt="MongoDB logo" height="25"/>
-<img src="https://img.shields.io/badge/NGINX-grey?logo=nginx" alt="NGINX logo" height="25"/>
-<img src="https://img.shields.io/badge/HTML-grey?logo=html5" alt="HTML logo" height="25"/>
-<img src="https://img.shields.io/badge/CSS-grey?logo=css" alt="CSS logo" height="25"/>
-<img src="https://img.shields.io/badge/Sass-grey?logo=sass" alt="Sass logo" height="25"/>
-<img src="https://img.shields.io/badge/Bootstrap-grey?logo=bootstrap" alt="Bootstrap logo" height="25"/>
-<img src="https://img.shields.io/badge/Jekyll-grey?logo=jekyll" alt="Jekyll logo" height="25"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-Transformers-grey?logo=huggingface" alt="Hugging Face and Transformers logo" height="25"/>
-<img src="https://img.shields.io/badge/LangChain-grey?logo=langchain" alt="LangChain logo" height="25"/>
-<img src="https://img.shields.io/badge/Streamlit-grey?logo=streamlit" alt="Streamlit logo" height="25"/>
+<img src="https://img.shields.io/badge/R-grey?logo=rstudioide" alt="R logo" height="25"/> <img src="https://img.shields.io/badge/Python-grey?logo=python" alt="Python logo" height="25"/> <img src="https://img.shields.io/badge/Jupyter-grey?logo=jupyter" alt="Jupyter logo" height="25"/> <img src="https://img.shields.io/badge/scikit.learn-grey?logo=scikitlearn" alt="scikit-learn logo" height="25"/> <img src="https://img.shields.io/badge/PyTorch-grey?logo=pytorch" alt="PyTorch logo" height="25"/> <img src="https://img.shields.io/badge/Linux-grey?logo=linux" alt="Linux logo" height="25"/> <img src="https://img.shields.io/badge/Ubuntu-grey?logo=ubuntu" alt="Ubuntu logo" height="25"/> <img src="https://img.shields.io/badge/Git-grey?logo=git" alt="Git logo" height="25"/> <img src="https://img.shields.io/badge/GitHub%20Actions-grey?logo=githubactions" alt="GitHub Actions logo" height="25"/> <img src="https://img.shields.io/badge/Docker-grey?logo=docker" alt="Docker logo" height="25"/> <img src="https://img.shields.io/badge/Google%20Cloud-grey?logo=googlecloud" alt="Google Cloud logo" height="25"/> <img src="https://img.shields.io/badge/Digital%20Ocean-grey?logo=digitalocean" alt="Docker logo" height="25"/> <img src="https://img.shields.io/badge/JavaScript-grey?logo=javascript" alt="JavaScript logo" height="25"/> <img src="https://img.shields.io/badge/Node.js-grey?logo=nodedotjs" alt="Node.js logo" height="25"/> <img src="https://img.shields.io/badge/MongoDB-grey?logo=mongodb" alt="MongoDB logo" height="25"/> <img src="https://img.shields.io/badge/NGINX-grey?logo=nginx" alt="NGINX logo" height="25"/> <img src="https://img.shields.io/badge/HTML-grey?logo=html5" alt="HTML logo" height="25"/> <img src="https://img.shields.io/badge/CSS-grey?logo=css" alt="CSS logo" height="25"/> <img src="https://img.shields.io/badge/Sass-grey?logo=sass" alt="Sass logo" height="25"/> <img src="https://img.shields.io/badge/Bootstrap-grey?logo=bootstrap" alt="Bootstrap logo" height="25"/> <img src="https://img.shields.io/badge/Jekyll-grey?logo=jekyll" alt="Jekyll logo" height="25"/> <img src="https://img.shields.io/badge/Hugging%20Face-Transformers-grey?logo=huggingface" alt="Hugging Face and Transformers logo" height="25"/> <img src="https://img.shields.io/badge/LangChain-grey?logo=langchain" alt="LangChain logo" height="25"/> <img src="https://img.shields.io/badge/Streamlit-grey?logo=streamlit" alt="Streamlit logo" height="25"/>
 
 ## What I'm currently up to
 Building end-to-end AI solutions for climate, finance, and global risk at  <a href="https://greenfinanceai.com" target="_blank">
