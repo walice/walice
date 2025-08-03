@@ -46,8 +46,8 @@ Here you will find repos for my academic papers, scientific tools, and some tuto
 <img src="https://img.shields.io/badge/Streamlit-grey?logo=streamlit" alt="Streamlit logo" height="25"/>
 
 ## What I'm currently up to
-Building end-to-end AI solutions for climate, finance, and global risk at <a href="https://greenfinanceai.com" target="_blank">
-  <img src="https://alicelepissier.com/assets/images/greenfinanceai_brand.png" alt="Green Finance AI brand" height="28" style="vertical-align:middle; margin-bottom:2px;" />
+Building end-to-end AI solutions for climate, finance, and global risk at  <a href="https://greenfinanceai.com" target="_blank">
+  <img src="https://alicelepissier.com/assets/images/greenfinanceai_brand.png" alt="Green Finance AI brand" height="30" style="vertical-align:middle;" />
 </a>
 
 ## Find me on the web
